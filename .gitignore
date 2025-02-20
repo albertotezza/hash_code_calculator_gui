@@ -1,0 +1,32 @@
+# Byte-compiled / virtual environment files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+venv/
+env/
+*.venv/
+
+# PyInstaller build folders
+build/
+*.spec
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System files
+*.~lock
